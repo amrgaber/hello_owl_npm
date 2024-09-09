@@ -1,0 +1,13 @@
+{
+    "name": "hello_owl",
+    "version": "0.1.0",
+    "description": "Starting Owl app",
+    "main": "src/index.html",
+    "scripts": {
+        "serve": "serve src"
+    },
+    "author": "Amr Gaber",
+    "devDependencies": {
+        "serve": "^11.3.0"
+    }
+}
